@@ -5,3 +5,9 @@ wole
 femi
 tope
 bimbo
+fola
+amope
+denge
+simon
+peter
+paul
