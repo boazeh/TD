@@ -11,3 +11,5 @@ denge
 simon
 peter
 paul
+Incoming DevOps engineer
+bug fix is complete
